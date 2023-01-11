@@ -1,4 +1,4 @@
-# Microbiome Analysis with DADA2 Pipeline and Phylogenetic Profile analysis
+# Microbiome Analysis with DADA2 Pipeline and Phylogenetic Profiling
 
 #### Microbiome analysis and phylogenetic profiling on data set of 20 paired-end fastq files contain gut bacteria fecal samples (V4 region of the 16S rRNA gene) collected from a post-weaning mouse and a mock community containing 20 known bacterial strains. 
 
