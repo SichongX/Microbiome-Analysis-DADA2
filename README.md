@@ -4,4 +4,6 @@
 
 Data set retrieved from https://www.mothur.org/w/images/d/d6/MiSeqSOPData.zip
 
+DADA2 - Divisive Amplicon Denoising Algorithm
+
 6210 Software Tools for Biological Data Analysis, Assignment 5 
